@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+A monkey with a mission.
+
+* <a rel="me" href="https://phpc.social/@yivi">Mastodon</a>
+* <a rel="me" href="https://weblog.yivoff.com">Web</a>
+
 <!--
 **yivi/yivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
